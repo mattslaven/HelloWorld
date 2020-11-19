@@ -10,3 +10,10 @@ I enjoy nature. Activities that I enjoy include trail running, rock climbing, pa
 
 ## Miscellaneous
 This page was created following the instructions in <i>GitHub for Dummies</i>, chapter 3.
+
+## Favorite authors
+Thomas Davenport
+
+## Bookmarks
+Hello World · GitHub Guides
+https://guides.github.com/activities/hello-world/
